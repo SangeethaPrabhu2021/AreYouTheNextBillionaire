@@ -2,10 +2,11 @@
 AIM:
 To develop a software to check the player's General Knowledge.
 
-INTRODUTION:
+
+# INTRODUTION:
   In today’s world where the amount of information is doubling every year, it is important to stay updated about the latest facts, news and current affairs. However, at times, keeping ourselves updated may seem too tedious and time consuming. Thus, this project is an initiative to make people stay updated about the recent whereabouts, past events and general facts about the country and the world. Built with the basic Turbo C++ version of the C++ compiler, this software aims at making learning current affairs and general knowledge much more interesting.
  
-RULES OF THE GAME : 
+# RULES OF THE GAME : 
 •	This is an interesting game consisting of 11 questions. Whenever the player answers a question correctly, he/she is awarded a cash prize.
 •	If the player faces any difficulty in answering a question, he/she can use any of the 4 lifelines, “Double dip”, “What experts think” and “Extra 20” .
 •	The player can use lifelines to answer the first ten questions. However, he can’t use any lifeline to answer the eleventh question (the ultimate one) even though his lifeline(s) are left unused. They cannot be used for the “What Experts’ Think” question also.
